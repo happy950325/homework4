@@ -3,5 +3,7 @@ public class homework4{
     System.out.println("Write for commit 1");
     System.out.println("Write for commit 2");
     System.out.println("Write for commit 3");
+    System.out.println("Bob : Write for commit 4");
+
   }
 }
